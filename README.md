@@ -1,0 +1,1 @@
+A mini project. Part of an assignment from The Odin Project.
