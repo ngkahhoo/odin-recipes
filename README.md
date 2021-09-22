@@ -1,1 +1,1 @@
-A mini project. Part of an assignment from The Odin Project.
+A mini project. Set up a main page with list of different food items which redirects to their respective recipe page.
